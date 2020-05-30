@@ -13,3 +13,6 @@ jdbc servlets jsp
 
 frameworks
 spring , hibernate
+
+spring cloud
+aws
