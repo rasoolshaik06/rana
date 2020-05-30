@@ -7,3 +7,6 @@ exception handling
 multi threading
 collections
 string handling
+
+jave 2 ee
+jdbc servlets jsp
